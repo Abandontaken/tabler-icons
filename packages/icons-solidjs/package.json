@@ -1,6 +1,6 @@
 {
   "name": "@tabler/icons-solidjs",
-  "version": "3.52.0",
+  "version": "3.53.0",
   "license": "MIT",
   "author": "codecalm",
   "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.",
@@ -66,8 +66,8 @@
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.10",
     "rollup-preset-solid": "^2.0.1",
-    "vite-plugin-solid": "^2.11.15",
-    "solid-js": "^1.9.18",
+    "vite-plugin-solid": "^2.11.16",
+    "solid-js": "^1.9.19",
     "rollup": "catalog:"
   },
   "peerDependencies": {
